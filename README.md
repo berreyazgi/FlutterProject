@@ -7,14 +7,6 @@ Proje, temiz kod prensipleri ve sürdürülebilir yazılım mimarisi hedeflenere
 <img width="403" height="871" alt="WhatsApp Image 2026-05-16 at 16 29 56" src="https://github.com/user-attachments/assets/223cdf9c-17a2-4c29-9ff2-8454e6e7ddfe" />
 <img width="403" height="871" alt="WhatsApp Image 2026-05-16 at 16 29 11" src="https://github.com/user-attachments/assets/a0e037e2-71f4-4765-8af3-655499d7d1aa" />
 
-## Proje Kazanımları 
-
-* **Çoklu Platform Optimizasyonu:** Cross-platform projelerde kullanılmayan native klasörlerin (`windows`, `macos`, `linux`, `web`) güvenli bir şekilde temizlenmesi ve projenin sadece mobil (Android & iOS) platformlara optimize edilerek hafifletilmesi sağlandı.
-* **Durum Yönetimi:** Arama filtreleri ve sepet etkileşimleri gibi dinamik arayüz elementlerinin birbiriyle haberleşmesi için reaktif programlama prensipleri uygulandı.
-* **Esnek ve Responsive Tasarım:** `GridView.builder` ve `ListView.builder` kullanılarak farklı ekran boyutlarına uyum sağlayan, kaydırılabilir ve performans dostu arayüzler inşa edildi.
-* **Clean Architecture Proneprensipleri:** İş mantığı (Domain), veri yönetimi (Data) ve arayüz (Presentation) katmanları birbirinden tamamen soyutlanarak kodun test edilebilirliği ve sürdürülebilirliği artırıldı.
-
----
 
 ## Çekirdek İşlevler ve Bileşen Mimarisi
 
@@ -35,9 +27,8 @@ Ana ekranda yer alan arama ve filtreleme yapısı, kullanıcıların aradıklar�
 
 ## Teknolojiler ve Mimari
 
-Bu projede kodun okunabilirliğini, test edilebilirliğini ve modülerliğini artırmak amacıyla **Clean Architecture** (Temiz Mimari) prensipleri benimsenmiştir.
-
-* **Framework:** [Flutter](https://flutter.dev/) (Dart)
+* **Flutter SDK:** `>= 3.22.0`
+* **Dart SDK:** `>= 3.4.0`
 * **Durum Yönetimi (State Management):** BLoC / Riverpod (Modüler yapıya uygun)
 * **Platform Desteği:** Android ve iOS (Proje klasörleri optimize edilerek masaüstü ve web kalabalığından arındırılmıştır).
 
