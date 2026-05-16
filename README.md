@@ -1,8 +1,11 @@
-
 ## Wood Decor 🪵✨
 **Wood Decor**, el yapımı ve zanaat ürünü ahşap süs eşyalarının (figürler, özel kutular, sanatsal objeler) sergilendiği ve satıldığı, modern ve minimalist tasarıma sahip bir **Flutter** mobil e-ticaret uygulamasıdır. 
 
 Proje, temiz kod prensipleri ve sürdürülebilir yazılım mimarisi hedeflenerek mobil odaklı (Android & iOS) olarak geliştirilmiştir.
+<img width="403" height="871" alt="WhatsApp Image 2026-05-16 at 16 29 03" src="https://github.com/user-attachments/assets/bebddac4-e317-4b71-a1ec-5736f550043f" />
+<img width="403" height="871" alt="WhatsApp Image 2026-05-16 at 16 29 24" src="https://github.com/user-attachments/assets/97984e02-ebc0-47f5-b298-1a1ff1fb58bf" />
+<img width="403" height="871" alt="WhatsApp Image 2026-05-16 at 16 29 56" src="https://github.com/user-attachments/assets/223cdf9c-17a2-4c29-9ff2-8454e6e7ddfe" />
+<img width="403" height="871" alt="WhatsApp Image 2026-05-16 at 16 29 11" src="https://github.com/user-attachments/assets/a0e037e2-71f4-4765-8af3-655499d7d1aa" />
 
 ## Proje Kazanımları 
 
@@ -15,7 +18,7 @@ Proje, temiz kod prensipleri ve sürdürülebilir yazılım mimarisi hedeflenere
 
 ## Çekirdek İşlevler ve Bileşen Mimarisi
 
-### 1. Alışveriş Sepeti & Sepete Ekle (Add to Cart) Mantığı
+### 1. Alışveriş Sepeti & Sepete Ekle  Mantığı
 
 Uygulamanın sepet yönetimi, kullanıcı deneyimini (UX) en üst düzeyde tutacak şekilde tasarlanmıştır:
 
@@ -42,10 +45,6 @@ Bu projede kodun okunabilirliğini, test edilebilirliğini ve modülerliğini ar
 
 
 ```
-
-```text
-README.md başarıyla oluşturuldu.
-
 ```text
 lib/
 │
